@@ -1,0 +1,10 @@
+C:\Users\Elev\Desktop\telefonbok\telefonbok\bin\Debug\telefonbok.exe.config
+C:\Users\Elev\Desktop\telefonbok\telefonbok\bin\Debug\telefonbok.exe
+C:\Users\Elev\Desktop\telefonbok\telefonbok\bin\Debug\telefonbok.pdb
+C:\Users\Elev\Desktop\telefonbok\telefonbok\obj\Debug\telefonbok.csproj.AssemblyReference.cache
+C:\Users\Elev\Desktop\telefonbok\telefonbok\obj\Debug\telefonbok.Form1.resources
+C:\Users\Elev\Desktop\telefonbok\telefonbok\obj\Debug\telefonbok.Properties.Resources.resources
+C:\Users\Elev\Desktop\telefonbok\telefonbok\obj\Debug\telefonbok.csproj.GenerateResource.cache
+C:\Users\Elev\Desktop\telefonbok\telefonbok\obj\Debug\telefonbok.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Desktop\telefonbok\telefonbok\obj\Debug\telefonbok.exe
+C:\Users\Elev\Desktop\telefonbok\telefonbok\obj\Debug\telefonbok.pdb
